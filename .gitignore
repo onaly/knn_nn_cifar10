@@ -1,0 +1,11 @@
+.vscode/
+__pycache__
+.ipynb_checkpoints/
+.pytest_cache/
+*/__pycache__
+.env
+*.zip
+notebooks/
+data/*
+documents/*
+*.docx
